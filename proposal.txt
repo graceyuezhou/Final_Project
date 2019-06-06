@@ -1,9 +1,9 @@
 Data Science Training Program Capstone Project
 Proposal
 1.	Team member: Grace Zhou
-2.	Problem statement: Data workers at Intuit spend too much time understanding and cleaning data. Data profiling is very ad-hoc and time-consuming
+2.	Problem statement: Data scientists are interested in understanding anomalies in model performance metrics to proactively identify issues
 3.	Goals: 
 o	develop a time series forecasting model to predict anomalies in model features to proactively identify data issues
-o	implement ARIMA models, Isolation Forest (link to paper), and methodology in a paper titled “Finite Rank Deep Kernel Learning” on new data sets
+o	implement ARIMA models, Isolation Forest, and methodology in a paper titled “Finite Rank Deep Kernel Learning” on new data sets
 4.	Success metrics: model performance metrics such as negative log likelihood
-5.	Data: Wavefront-Dashboard (subject to changes)
+5.	Data: categorization model performance metrics' data from an internal dashboard
